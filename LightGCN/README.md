@@ -1,6 +1,8 @@
 
 # LightGCN Preprocessing & Modeling Pipeline Documentation
 
+This model has got a score of 0.0349 in the leaderboard.(Submission file is also added here)
+
 This document explains the purpose of each part of the provided code and describes the full workflow implemented in the **LightGCN.ipynb** notebook.  
 The explanation covers preprocessing, model construction, training, evaluation, and recommendation generation.
 
