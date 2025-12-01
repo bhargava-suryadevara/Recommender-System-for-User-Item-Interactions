@@ -12,7 +12,7 @@ The notebook implements a full **LightGCN-based recommendation pipeline**.
 It includes:
 
 - Dataset loading  
-- Preprocessing  
+- Preprocessing 
 - Graph construction  
 - LightGCN model implementation  
 - BPR Loss  
