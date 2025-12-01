@@ -29,7 +29,7 @@ It includes:
 The interactions are read from:
 
 ```
-/Users/hemanthsai/Downloads/train-1.txt
+train-1.txt
 ```
 
 Each line has:
@@ -191,7 +191,7 @@ scores = alpha * collaborative_filtering_score
 - Top 20 items written to:
 
 ```
-submission_lgcn4-new.txt
+submission.txt
 ```
 
 ---
