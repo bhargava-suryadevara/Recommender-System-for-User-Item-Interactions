@@ -1,7 +1,7 @@
 
 # LightGCN Preprocessing & Modeling Pipeline Documentation
 
-This document explains the purpose of each part of the provided code and describes the full workflow implemented in the **LightGCN-Hemanth.ipynb** notebook.  
+This document explains the purpose of each part of the provided code and describes the full workflow implemented in the **LightGCN.ipynb** notebook.  
 The explanation covers preprocessing, model construction, training, evaluation, and recommendation generation.
 
 ---
